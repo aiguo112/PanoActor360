@@ -1,0 +1,42 @@
+# Dataset / features / weights (never commit)
+data/
+datasets/
+feats/
+checkpoints/
+*.pt
+*.pth
+
+# Keep the shipped demo video only
+*.mp4
+!supplement/panoactor_demo.mp4
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor / agent clutter
+.cursor/
+.vscode/
+.idea/
+*.swp
+*~
+AGENT*
+HANDOFF*
+CURSOR*
+*_CURSOR_*
+PAPER_REVISION*
+PANOACTOR_CURSOR*
+
+# Paper sources (not part of this repo)
+paper/
+paper_fg2027/
+*.tex
+!paper_tables/.gitkeep
+*.pdf

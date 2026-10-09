@@ -1,0 +1,9 @@
+epochs: 60
+warmup_epochs: 5
+batch_size: 32
+lr: 3.0e-4
+weight_decay: 0.05
+label_smoothing: 0.1
+seed: 42
+n_frames: 16
+n_classes: 27

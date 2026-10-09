@@ -1,0 +1,7 @@
+# Edit these paths after cloning. Do not commit machine-specific absolute paths.
+data_root: ./data/360x          # official 360+x download (not shipped)
+frames_root: ./data/frames_2048
+feats_root: ./feats
+protocol_csv: ./protocol/segments_v1.csv
+classes_json: ./protocol/classes_v1.json
+results_root: ./results

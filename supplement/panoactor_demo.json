@@ -1,0 +1,192 @@
+[
+  {
+    "seg_id": "88",
+    "tag": "seam",
+    "true": 4,
+    "pred": 4,
+    "top5": [
+      4,
+      3,
+      15,
+      0,
+      19
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 8,
+      "n_dets": 117
+    }
+  },
+  {
+    "seg_id": "3372",
+    "tag": "seam",
+    "true": 7,
+    "pred": 7,
+    "top5": [
+      7,
+      24,
+      2,
+      13,
+      20
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 8,
+      "n_dets": 90
+    }
+  },
+  {
+    "seg_id": "2346",
+    "tag": "seam",
+    "true": 16,
+    "pred": 16,
+    "top5": [
+      16,
+      15,
+      21,
+      7,
+      17
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 84.09,
+      "max_people": 8,
+      "n_dets": 71
+    }
+  },
+  {
+    "seg_id": "3186",
+    "tag": "success",
+    "true": 25,
+    "pred": 25,
+    "top5": [
+      25,
+      15,
+      19,
+      6,
+      3
+    ],
+    "geo": {
+      "has_seam": false,
+      "max_fov": 90.0,
+      "max_people": 5,
+      "n_dets": 63
+    }
+  },
+  {
+    "seg_id": "1887",
+    "tag": "seam+near",
+    "true": 4,
+    "pred": 4,
+    "top5": [
+      4,
+      5,
+      11,
+      16,
+      0
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 4,
+      "n_dets": 35
+    }
+  },
+  {
+    "seg_id": "2846",
+    "tag": "seam+near",
+    "true": 9,
+    "pred": 9,
+    "top5": [
+      9,
+      11,
+      15,
+      17,
+      2
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 8,
+      "n_dets": 128
+    }
+  },
+  {
+    "seg_id": "782",
+    "tag": "crowded",
+    "true": 23,
+    "pred": 23,
+    "top5": [
+      23,
+      7,
+      4,
+      6,
+      3
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 8,
+      "n_dets": 81
+    }
+  },
+  {
+    "seg_id": "821",
+    "tag": "near",
+    "true": 7,
+    "pred": 7,
+    "top5": [
+      7,
+      23,
+      15,
+      19,
+      5
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 6,
+      "n_dets": 87
+    }
+  },
+  {
+    "seg_id": "3369",
+    "tag": "failure",
+    "true": 13,
+    "pred": 7,
+    "top5": [
+      7,
+      11,
+      6,
+      23,
+      19
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 7,
+      "n_dets": 87
+    }
+  },
+  {
+    "seg_id": "3356",
+    "tag": "failure",
+    "true": 23,
+    "pred": 25,
+    "top5": [
+      25,
+      6,
+      22,
+      15,
+      14
+    ],
+    "geo": {
+      "has_seam": true,
+      "max_fov": 90.0,
+      "max_people": 1,
+      "n_dets": 1
+    }
+  }
+]
